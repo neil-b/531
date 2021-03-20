@@ -36,3 +36,45 @@
     transform: rotate(360deg);
   }
 }
+
+.plate {
+  border-radius: 0.3em;
+  padding-right: 0.25em;
+  padding-left: 0.25em;
+  padding-top: 0.15em;
+  padding-bottom: 0.15em;
+  color: #ecf9fd;
+}
+
+.plate-45 {
+  background-color: #118ab2;
+}
+
+.plate-35 {
+  background-color: #ffd166;
+  color: #000000;
+}
+
+.plate-25 {
+  background-color: #06d6a0;
+  color: #000000;
+}
+
+.plate-10 {
+  background-color: #a9d6e5;
+  color: #000000;
+}
+
+.plate-5 {
+  background-color: #118ab2;
+}
+
+.plate-2-5 {
+  background-color: #06d6a0;
+  color: #000000;
+}
+
+.plate-0-5 {
+  background-color: #a9d6e5;
+  color: #000000;
+}
